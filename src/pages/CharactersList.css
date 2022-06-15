@@ -1,0 +1,11 @@
+.CharacterList{
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: space-evenly;
+}
+
+.text-link{
+    color: inherit;
+    text-decoration: none;
+}
+
